@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.markdown = README.markdown
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject.Moq.Tests", "Ninject.Moq.Tests\Ninject.Moq.Tests.csproj", "{C824F86D-BF86-46BD-B0D2-8D2A09398518}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,10 @@ Global
 		{C0CFA4C0-1B4D-4011-94F2-7DB1CF98D67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0CFA4C0-1B4D-4011-94F2-7DB1CF98D67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0CFA4C0-1B4D-4011-94F2-7DB1CF98D67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C824F86D-BF86-46BD-B0D2-8D2A09398518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C824F86D-BF86-46BD-B0D2-8D2A09398518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C824F86D-BF86-46BD-B0D2-8D2A09398518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C824F86D-BF86-46BD-B0D2-8D2A09398518}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
