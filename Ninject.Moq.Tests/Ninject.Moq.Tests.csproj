@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BindTests.cs" />
     <Compile Include="Fakes\AbstractWeapon.cs" />
     <Compile Include="Fakes\IWarrior.cs" />
     <Compile Include="Fakes\IWeapon.cs" />
